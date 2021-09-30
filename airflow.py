@@ -26,7 +26,7 @@ top_x = 5              # set the number of author to return for question 2
 
 endpoint  = 'https://api.github.com'
 
-auth_token = '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'
+auth_token = '<Gihub token>'
 url = 'https://api.github.com/repos/apache/airflow/commits'
 header    = {'Accept': 'application/vnd.github.v3+json', 'Authorization': 'token ' + auth_token}
 
